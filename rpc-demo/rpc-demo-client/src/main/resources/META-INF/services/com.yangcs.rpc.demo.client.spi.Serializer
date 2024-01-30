@@ -1,0 +1,2 @@
+com.yangcs.rpc.demo.client.spi.JSONSerializer
+com.yangcs.rpc.demo.client.spi.ProtostuffSerializer
