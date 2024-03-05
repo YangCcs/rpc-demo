@@ -7,7 +7,7 @@ package com.yangcs.rpc.common.consts;
 public interface RegistryConst {
 
     // 服务提供方目录
-    String PROVIDES_CATEGORY = "providers";
+    String PROVIDERS_CATEGORY = "providers";
 
     // 消费者目录
     String CONSUMERS_CATEGORY = "consumers";
