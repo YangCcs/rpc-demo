@@ -1,0 +1,2 @@
+system-property=com.yangcs.rpc.core.config.loader.SystemPropertyLoader
+properties=com.yangcs.rpc.core.config.loader.PropertiesConfigLoader

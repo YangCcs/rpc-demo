@@ -1,0 +1,2 @@
+random=com.yangcs.rpc.core.loadbalance.RandomLoadBalance
+round-robin=com.yangcs.rpc.core.loadbalance.RoundRobinLoadBalance

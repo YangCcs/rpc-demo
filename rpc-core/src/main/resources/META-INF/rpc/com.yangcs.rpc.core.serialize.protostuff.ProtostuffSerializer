@@ -1,1 +1,1 @@
-protostuff=com.yangcs.rpc.core.serialize.protostuff.ProtostuffSerializer
+protostuff=protostuff.serialize.com.yangccs.rpc.core.ProtostuffSerializer

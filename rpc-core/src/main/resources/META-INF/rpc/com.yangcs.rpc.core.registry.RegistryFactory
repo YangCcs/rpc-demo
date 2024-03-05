@@ -1,0 +1,2 @@
+zk=com.yangcs.rpc.core.registry.zk.ZkRegistryFactory
+local=com.yangcs.rpc.core.registry.local.LocalRegistryFactory

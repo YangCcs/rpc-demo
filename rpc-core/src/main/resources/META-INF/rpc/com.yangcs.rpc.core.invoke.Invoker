@@ -1,0 +1,1 @@
+netty=com.yangcs.rpc.core.invoke.NettyInvoker

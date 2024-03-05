@@ -1,0 +1,2 @@
+retry=com.yangcs.rpc.core.faulttolerant.RetryInvoker
+fail-fast=com.yangcs.rpc.core.faulttolerant.FailFastInvoker
