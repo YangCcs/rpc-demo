@@ -16,8 +16,6 @@ import java.util.concurrent.ConcurrentHashMap;
 /**
  * 配置管理
  *
- * @author chenchuxin
- * @date 2021/7/31
  */
 public class ConfigManager {
 

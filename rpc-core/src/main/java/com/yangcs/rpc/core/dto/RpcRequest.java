@@ -9,8 +9,6 @@ import lombok.NoArgsConstructor;
 /**
  * RPC 请求实体
  *
- * @author chenchuxin
- * @date 2021/7/25
  */
 @Data
 @Builder

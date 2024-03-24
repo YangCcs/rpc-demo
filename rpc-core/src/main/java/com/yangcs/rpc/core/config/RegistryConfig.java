@@ -7,8 +7,6 @@ import lombok.Data;
 /**
  * 注册中心配置
  *
- * @author chenchuxin
- * @date 2021/7/31
  */
 @Data
 @Config(prefix = "registry")

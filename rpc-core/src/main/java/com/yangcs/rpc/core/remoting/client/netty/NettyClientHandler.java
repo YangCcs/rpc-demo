@@ -14,10 +14,6 @@ import io.netty.handler.timeout.IdleStateEvent;
 import io.netty.util.ReferenceCountUtil;
 import lombok.extern.slf4j.Slf4j;
 
-/**
- * @author chenchuxin
- * @date 2021/7/31
- */
 @Slf4j
 public class NettyClientHandler extends SimpleChannelInboundHandler<RpcMessage> {
     @Override

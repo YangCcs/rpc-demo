@@ -8,8 +8,6 @@ import lombok.Data;
 /**
  * 协议相关配置
  *
- * @author chenchuxin
- * @date 2021/8/1
  */
 @Data
 @Config(prefix = "protocol")

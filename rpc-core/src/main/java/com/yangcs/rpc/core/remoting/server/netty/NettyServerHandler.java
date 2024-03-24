@@ -16,10 +16,6 @@ import lombok.extern.slf4j.Slf4j;
 
 import java.lang.reflect.Method;
 
-/**
- * @author chenchuxin
- * @date 2021/7/25
- */
 @Slf4j
 public class NettyServerHandler extends SimpleChannelInboundHandler<RpcMessage> {
 

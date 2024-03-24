@@ -6,8 +6,6 @@ import lombok.Getter;
 /**
  * 消息类型
  *
- * @author chenchuxin
- * @date 2021/7/24
  */
 @Getter
 @AllArgsConstructor

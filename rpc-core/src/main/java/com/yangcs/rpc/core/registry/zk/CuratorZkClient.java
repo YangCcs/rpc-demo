@@ -20,9 +20,6 @@ import java.util.concurrent.TimeUnit;
 
 /**
  * curator zk 客户端
- *
- * @author chenchuxin
- * @date 2021/7/18
  */
 @Slf4j
 public class CuratorZkClient {

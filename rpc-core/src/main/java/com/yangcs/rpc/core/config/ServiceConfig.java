@@ -6,8 +6,6 @@ import lombok.Data;
 /**
  * 服务启动配置
  *
- * @author chenchuxin
- * @date 2021/7/31
  */
 @Data
 @Config(prefix = "service")

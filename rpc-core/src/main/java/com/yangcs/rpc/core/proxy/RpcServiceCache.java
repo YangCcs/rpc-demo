@@ -10,8 +10,6 @@ import java.util.concurrent.ConcurrentHashMap;
 /**
  * 服务缓存
  *
- * @author chenchuxin
- * @date 2021/8/1
  */
 @Slf4j
 public class RpcServiceCache {

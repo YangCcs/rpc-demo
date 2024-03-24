@@ -5,8 +5,6 @@ import com.yangcs.rpc.common.extension.SPI;
 /**
  * 配置加载器
  *
- * @author chenchuxin
- * @date 2021/8/1
  */
 @SPI
 public interface ConfigLoader {

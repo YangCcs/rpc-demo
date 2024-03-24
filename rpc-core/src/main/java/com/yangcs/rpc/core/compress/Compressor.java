@@ -5,8 +5,6 @@ import com.yangcs.rpc.common.extension.SPI;
 /**
  * 压缩解压器
  *
- * @author chenchuxin
- * @date 2021/7/24
  */
 @SPI("dummy")
 public interface Compressor {

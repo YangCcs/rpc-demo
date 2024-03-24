@@ -8,8 +8,6 @@ import lombok.extern.slf4j.Slf4j;
 /**
  * ccx-rpc.properties 文件配置。prefix.configField=xxx
  *
- * @author chenchuxin
- * @date 2021/8/22
  */
 @Slf4j
 public class PropertiesConfigLoader implements ConfigLoader {

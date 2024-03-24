@@ -14,9 +14,6 @@ import java.util.stream.Collectors;
 
 /**
  * 抽象的注册中心
- *
- * @author chenchuxin
- * @date 2021/7/24
  */
 @Slf4j
 public abstract class AbstractRegistry implements Registry {

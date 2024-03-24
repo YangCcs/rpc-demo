@@ -9,8 +9,6 @@ import java.util.List;
 /**
  * 抽象的负载均衡
  *
- * @author chenchuxin
- * @date 2021/8/7
  */
 public abstract class AbstractLoadBalance implements LoadBalance {
 

@@ -9,9 +9,6 @@ import java.util.concurrent.ConcurrentHashMap;
 
 /**
  * 未处理的请求
- *
- * @author chenchuxin
- * @date 2021/7/31
  */
 public class UnprocessedRequests {
     private static final Map<Long, CompletableFuture<RpcResponse<?>>> FUTURE_MAP = new ConcurrentHashMap<>();

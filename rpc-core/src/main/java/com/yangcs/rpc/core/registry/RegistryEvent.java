@@ -5,9 +5,6 @@ import lombok.Data;
 
 /**
  * 注册中心事件
- *
- * @author chenchuxin
- * @date 2021/8/22
  */
 @Data
 @AllArgsConstructor

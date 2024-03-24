@@ -18,9 +18,6 @@ import java.util.Map;
 
 /**
  * 抽象执行者
- *
- * @author chenchuxin
- * @date 2021/8/8
  */
 public abstract class AbstractInvoker implements Invoker {
 

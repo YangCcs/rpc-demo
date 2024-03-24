@@ -6,8 +6,6 @@ import lombok.Getter;
 /**
  * 压缩类型
  *
- * @author chenchuxin
- * @date 2021/7/25
  */
 @Getter
 @AllArgsConstructor

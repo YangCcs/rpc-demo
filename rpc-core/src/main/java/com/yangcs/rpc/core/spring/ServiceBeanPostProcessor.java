@@ -26,9 +26,6 @@ import java.util.Map;
  * 实例化时。
  * 服务提供方：注册到注册中心
  * 服务调用方：生成 RPC 代理类
- *
- * @author chenchuxin
- * @date 2021/7/31
  */
 @Slf4j
 @Component
@@ -82,7 +79,7 @@ public class ServiceBeanPostProcessor implements BeanPostProcessor {
                 .put(URLKeyConst.INTERFACE, bean.getClass().getInterfaces()[0].getCanonicalName())
                 .put(URLKeyConst.VERSION, rpcService.version()).build();
         ServiceConfig serviceConfig = ConfigManager.getInstant().getServiceConfig();
-        return URL.builder().protocol("ccx-rpc")
+        return URL.builder().protocol("ycs-rpc")
                 .host(NetUtil.getLocalhostStr())
                 .port(serviceConfig.getPort())
                 .params(param).build();

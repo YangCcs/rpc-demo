@@ -7,9 +7,6 @@ import com.yangcs.rpc.common.url.URL;
 
 /**
  * 注册中心工厂
- *
- * @author chenchuxin
- * @date 2021/7/18
  */
 @SPI
 public interface RegistryFactory {

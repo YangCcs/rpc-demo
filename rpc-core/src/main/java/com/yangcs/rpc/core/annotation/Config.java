@@ -5,8 +5,6 @@ import java.lang.annotation.*;
 /**
  * 放在配置类上，可以使用 ConfigLoader 加载
  *
- * @author chenchuxin
- * @date 2021/8/1
  */
 @Documented
 @Target(ElementType.TYPE)

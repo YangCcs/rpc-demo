@@ -9,9 +9,6 @@ import java.util.concurrent.ConcurrentHashMap;
 
 /**
  * zk 注册中心工厂
- *
- * @author chenchuxin
- * @date 2021/7/18
  */
 public class ZkRegistryFactory implements RegistryFactory {
 

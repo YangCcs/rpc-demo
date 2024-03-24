@@ -7,8 +7,6 @@ import java.util.concurrent.atomic.AtomicLong;
 /**
  * 消息格式常量
  *
- * @author chenchuxin
- * @date 2021/7/25
  */
 public interface MessageFormatConst {
 

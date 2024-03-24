@@ -11,9 +11,6 @@ import java.util.Set;
 
 /**
  * 本地注册中心，测试用
- *
- * @author chenchuxin
- * @date 2021/7/18
  */
 @Slf4j
 public class LocalRegistry extends AbstractRegistry {

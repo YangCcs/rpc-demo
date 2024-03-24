@@ -22,10 +22,6 @@ import java.util.concurrent.CompletableFuture;
 import java.util.concurrent.ConcurrentHashMap;
 import java.util.concurrent.TimeUnit;
 
-/**
- * @author chenchuxin
- * @date 2021/7/31
- */
 @Slf4j
 public class NettyClient {
 

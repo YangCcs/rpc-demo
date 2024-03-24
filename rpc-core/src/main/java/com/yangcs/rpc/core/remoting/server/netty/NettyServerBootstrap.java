@@ -26,9 +26,6 @@ import java.util.concurrent.TimeUnit;
 
 /**
  * netty 服务端
- *
- * @author chenchuxin
- * @date 2021/7/24
  */
 @Slf4j
 @Component

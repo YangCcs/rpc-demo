@@ -11,9 +11,6 @@ import com.yangcs.rpc.core.loadbalance.LoadBalance;
 
 /**
  * 容错执行者
- *
- * @author chenchuxin
- * @date 2021/8/8
  */
 public abstract class AbstractFaultTolerantInvoker implements FaultTolerantInvoker {
 

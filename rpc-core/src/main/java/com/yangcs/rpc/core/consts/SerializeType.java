@@ -5,9 +5,6 @@ import lombok.Getter;
 
 /**
  * 序列化类型
- *
- * @author chenchuxin
- * @date 2021/7/25
  */
 @Getter
 @AllArgsConstructor

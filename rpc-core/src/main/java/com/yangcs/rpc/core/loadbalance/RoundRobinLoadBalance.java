@@ -9,8 +9,6 @@ import java.util.concurrent.atomic.LongAdder;
 /**
  * 轮询
  *
- * @author chenchuxin
- * @date 2021/8/7
  */
 public class RoundRobinLoadBalance extends AbstractLoadBalance {
 

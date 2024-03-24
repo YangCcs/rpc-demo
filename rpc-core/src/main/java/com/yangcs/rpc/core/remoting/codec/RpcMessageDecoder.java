@@ -41,9 +41,6 @@ import static com.yangcs.rpc.core.consts.MessageFormatConst.*;
  *   8B requestId（请求的Id）
  *   body（object类型数据）
  * </pre>
- *
- * @author chenchuxin
- * @date 2021/7/25
  */
 @Slf4j
 public class RpcMessageDecoder extends LengthFieldBasedFrameDecoder {

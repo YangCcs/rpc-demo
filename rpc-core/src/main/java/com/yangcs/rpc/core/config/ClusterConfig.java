@@ -6,8 +6,6 @@ import lombok.Data;
 /**
  * 集群配置
  *
- * @author chenchuxin
- * @date 2021/8/7
  */
 @Data
 @Config(prefix = "cluster")

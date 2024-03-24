@@ -5,9 +5,6 @@ import lombok.Getter;
 
 /**
  * 返回码
- *
- * @author chenchuxin
- * @date 2021/7/26
  */
 @Getter
 @AllArgsConstructor

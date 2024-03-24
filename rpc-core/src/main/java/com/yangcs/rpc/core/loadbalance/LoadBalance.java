@@ -8,9 +8,6 @@ import java.util.List;
 
 /**
  * 负载均衡
- *
- * @author chenchuxin
- * @date 2021/8/7
  */
 @SPI("round-robin")
 public interface LoadBalance {

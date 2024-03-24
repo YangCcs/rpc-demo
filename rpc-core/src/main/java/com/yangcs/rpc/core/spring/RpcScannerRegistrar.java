@@ -18,8 +18,6 @@ import java.util.Map;
 /**
  * rpc 扫描注册
  *
- * @author chenchuxin
- * @date 2021/7/30
  */
 @Slf4j
 public class RpcScannerRegistrar implements ImportBeanDefinitionRegistrar, ResourceLoaderAware {

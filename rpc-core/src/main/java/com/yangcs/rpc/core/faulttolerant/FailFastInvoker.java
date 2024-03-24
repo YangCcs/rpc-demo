@@ -9,8 +9,6 @@ import com.yangcs.rpc.core.loadbalance.LoadBalance;
 /**
  * 快速失败
  *
- * @author chenchuxin
- * @date 2021/8/8
  */
 public class FailFastInvoker extends AbstractFaultTolerantInvoker {
 

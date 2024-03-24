@@ -35,9 +35,6 @@ import io.netty.handler.codec.MessageToByteEncoder;
  *   8B requestId（请求的Id）
  *   body（object类型数据）
  * </pre>
- *
- * @author chenchuxin
- * @date 2021/7/25
  */
 public class RpcMessageEncoder extends MessageToByteEncoder<RpcMessage> {
 

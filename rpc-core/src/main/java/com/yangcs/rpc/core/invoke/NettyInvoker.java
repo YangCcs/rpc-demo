@@ -21,8 +21,6 @@ import java.util.concurrent.CompletableFuture;
 /**
  * netty 执行者，相当于发请求
  *
- * @author chenchuxin
- * @date 2021/8/8
  */
 @Slf4j
 public class NettyInvoker extends AbstractInvoker {

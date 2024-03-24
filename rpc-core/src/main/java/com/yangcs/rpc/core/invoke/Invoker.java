@@ -7,9 +7,6 @@ import com.yangcs.rpc.core.dto.RpcResult;
 
 /**
  * 执行者
- *
- * @author chenchuxin
- * @date 2021/8/8
  */
 @SPI("netty")
 public interface Invoker {

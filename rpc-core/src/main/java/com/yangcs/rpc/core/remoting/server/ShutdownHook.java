@@ -9,9 +9,6 @@ import lombok.extern.slf4j.Slf4j;
 
 /**
  * 关闭的钩子
- *
- * @author chenchuxin
- * @date 2021/7/24
  */
 @Slf4j
 public class ShutdownHook {

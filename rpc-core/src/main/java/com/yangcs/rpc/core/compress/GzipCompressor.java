@@ -11,8 +11,6 @@ import java.util.zip.GZIPOutputStream;
 /**
  * gzip 压缩/解压器
  *
- * @author chenchuxin
- * @date 2021/7/24
  */
 public class GzipCompressor implements Compressor {
 

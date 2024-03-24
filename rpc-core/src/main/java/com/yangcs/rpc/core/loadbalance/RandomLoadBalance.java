@@ -9,8 +9,6 @@ import java.util.List;
 /**
  * 随机负载均衡
  *
- * @author chenchuxin
- * @date 2021/8/7
  */
 public class RandomLoadBalance extends AbstractLoadBalance {
 

@@ -6,9 +6,6 @@ import java.util.List;
 
 /**
  * 注册中心
- *
- * @author chenchuxin
- * @date 2021/7/18
  */
 public interface Registry {
 

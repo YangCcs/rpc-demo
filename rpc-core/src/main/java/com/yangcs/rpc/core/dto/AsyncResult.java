@@ -8,8 +8,6 @@ import java.util.concurrent.ExecutionException;
 /**
  * 异步结果
  *
- * @author chenchuxin
- * @date 2021/8/8
  */
 @Slf4j
 public class AsyncResult implements RpcResult {

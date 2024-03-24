@@ -16,8 +16,6 @@ import java.lang.reflect.Proxy;
 /**
  * Rpc 调用方的代理
  *
- * @author chenchuxin
- * @date 2021/7/31
  */
 public class RpcClientProxy implements InvocationHandler {
 

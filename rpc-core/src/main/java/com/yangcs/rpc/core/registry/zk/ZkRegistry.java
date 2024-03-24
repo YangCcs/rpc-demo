@@ -16,8 +16,6 @@ import java.util.stream.Collectors;
  * zk 注册中心。<br>
  * 这里面会引入 curator，最好是新建个 Module 的，不过现在代码还太简单，不需要
  *
- * @author chenchuxin
- * @date 2021/7/18
  */
 @Slf4j
 public class ZkRegistry extends AbstractRegistry {

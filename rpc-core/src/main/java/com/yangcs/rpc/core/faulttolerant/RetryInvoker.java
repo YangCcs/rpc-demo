@@ -12,8 +12,6 @@ import java.util.Optional;
 /**
  * 重试执行，只有幂等的才能重试
  *
- * @author chenchuxin
- * @date 2021/8/8
  */
 @Slf4j
 public class RetryInvoker extends AbstractFaultTolerantInvoker {
